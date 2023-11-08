@@ -1,1 +1,1 @@
-DSA
+DSA repository for it workshop
